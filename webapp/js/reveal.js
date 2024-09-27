@@ -21,7 +21,7 @@
 	}
 }( this, function() {
 
-	'use strict';
+	'use str
 
 	var Reveal;
 
